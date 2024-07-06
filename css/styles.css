@@ -1,0 +1,25 @@
+#fancy {
+ font-family: cursive;
+ background-color: #E0F7E0;
+}	  
+
+.list {
+  background-color: #E0F7E0;
+}
+li,
+p {
+  color: black;
+  background-color: #E0F7E0;
+  padding: 0px 5px;
+}
+
+p {
+  text-align: center;
+  font-size: larger;
+}
+
+* {
+  background-color: lightgrey;
+  font-family: Arial, Verdana, "Times New Roman";
+}
+
