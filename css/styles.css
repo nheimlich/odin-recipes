@@ -1,25 +1,27 @@
 #fancy {
- font-family: cursive;
- background-color: #E0F7E0;
-}	  
-
-.list {
-  background-color: #E0F7E0;
+  font-family: cursive;
 }
-li,
+.list,
+.ingredients {
+  padding: 1px;
+  border: 3px;
+}
+
+img {
+  padding: 10px;
+  background-color: black;
+}
+
 p {
   color: black;
-  background-color: #E0F7E0;
-  padding: 0px 5px;
-}
-
-p {
   text-align: center;
   font-size: larger;
+  border: 3px;
+  background-color: #9bffc8;
 }
 
 * {
   background-color: lightgrey;
   font-family: Arial, Verdana, "Times New Roman";
+  display: border-box;
 }
-
